@@ -7,3 +7,4 @@
 
 The Attached HTML document gives brief about the SweetViz library Generated Visualization
 report has the picture of generated image
+![alt text](https://github.com/sriharsha8991/IRIS_ML_Project/blob/main/sweetviz.png)
